@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## HOW TO RUN THE PROJECT?
 
-1. ### `npm install`
+1. ### `npm install` to install all dependencies
 2. Block CORS on the browser where you will run the project [CORS Unblock for Chrome](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en).
-3. ### `npm start`
+3. ### `npm start`git add .
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
